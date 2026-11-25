@@ -1,4 +1,4 @@
-# Credit Scoring Model Comparison: Logistic Regression vs. XGBoost (Before & After PCA)
+# Credit Scoring Model Comparison : Logistic Regression vs XGBoost (Before & After PCA)
 
 ## ภาพรวมโปรเจกต์
 โปรเจกต์นี้มุ่งเน้นการเปรียบเทียบประสิทธิภาพของโมเดล Machine Learning ระหว่าง Logistic Regression และ XGBoost ในการทำนายความเสี่ยงการผิดนัดชำระหนี้บัตรเครดิต โดยศึกษาผลกระทบของการจัดการปัญหาข้อมูลไม่สมดุล และการลดมิติข้อมูลด้วยเทคนิค Principal Component Analysis (PCA) ที่ระดับความแปรปรวนสะสม $\ge 90\%$ เพื่อประเมินความสมดุลระหว่างความแม่นยำในการทำนายและต้นทุนเวลาในการประมวลผล
